@@ -1,0 +1,321 @@
+{
+  "main": {
+    "id": "2eb06b31ae3e8296",
+    "type": "split",
+    "children": [
+      {
+        "id": "11a5b88b836d4345",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f02a04e568c7566",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.微信小程序配置.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.微信小程序配置"
+            }
+          },
+          {
+            "id": "49c0cdb07777569f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.样式和组件.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.样式和组件"
+            }
+          },
+          {
+            "id": "1de0c0c1af8248b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.事件系统.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.事件系统"
+            }
+          },
+          {
+            "id": "2aee250aa4f6f444",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4.模版语法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.模版语法"
+            }
+          },
+          {
+            "id": "12ffa8623b61ff3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.生命周期.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.生命周期"
+            }
+          },
+          {
+            "id": "7f2740db14a7848f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6.原生api.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.原生api"
+            }
+          },
+          {
+            "id": "920f7ff77c4dfc04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7.自定义组件.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7.自定义组件"
+            }
+          },
+          {
+            "id": "a33950ba43035221",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8.npm 使用.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8.npm 使用"
+            }
+          },
+          {
+            "id": "3ff15d25b7520ace",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9.分包.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9.分包"
+            }
+          },
+          {
+            "id": "0c18697995fb12ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10.开发能力.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10.开发能力"
+            }
+          },
+          {
+            "id": "21a76bc647fc79f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11.拓展.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11.拓展"
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64e9c7538a82f3db",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0de784dc34a85e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9396d3d51ab7dabc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "7bc269eaba0e0617",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "c229d61ef5177414",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8460f82801adbff2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2a8987dcec8fc6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd8b576b9faaaa9d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "11.拓展.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "11.拓展 的反向链接列表"
+            }
+          },
+          {
+            "id": "35dc1a008ca437fd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "11.拓展.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "11.拓展 的出链列表"
+            }
+          },
+          {
+            "id": "17293a689b71937f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "ca645b5cb72b2e10",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "11.拓展.md"
+              },
+              "icon": "lucide-list",
+              "title": "11.拓展 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "21a76bc647fc79f0",
+  "lastOpenFiles": [
+    "10.开发能力.md",
+    "11.拓展.md",
+    "9.分包.md",
+    "8.npm 使用.md",
+    "7.自定义组件.md",
+    "Pasted image 20241121160335.png",
+    "6.原生api.md",
+    "5.生命周期.md",
+    "4.模版语法.md",
+    "3.事件系统.md",
+    "2.样式和组件.md",
+    "1.微信小程序配置.md"
+  ]
+}
